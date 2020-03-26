@@ -75,47 +75,47 @@ class 관계도
 
 
 
-![1.상단 NAV bar 및 이미지](./images/1.상단 NAV bar 및 이미지.PNG)
+![상단 NAV bar 및 이미지](./images/상단 NAV bar 및 이미지.PNG)
 
 <center>상단 nav bar 고정 및 메인화면 및 footer</center>
 
-![2.상단 nav bar 고정 및 메인화면 및 footer](./images/2.상단 nav bar 고정 및 메인화면 및 footer.PNG)
+![상단 nav bar 고정 및 메인화면 및 footer](./images/상단 nav bar 고정 및 메인화면 및 footer.PNG)
 
 <center>로그인 및 회원가입 및 아이디비밀번호찾기</center>
 
-![3. 로그인 및 회원가입 및 아이디비밀번호찾기](./images/3. 로그인 및 회원가입 및 아이디비밀번호찾기.PNG)
+![로그인 및 회원가입 및 아이디비밀번호찾기](./images/로그인 및 회원가입 및 아이디비밀번호찾기.PNG)
 
 <center>페이지형식의 상품목록페이지 및 추가버튼</center>
 
 
 
-![4. 페이지형식의 상품목록페이지 및 추가버튼](./images/4. 페이지형식의 상품목록페이지 및 추가버튼.PNG)
+![페이지형식의 상품목록페이지 및 추가버튼](./images/페이지형식의 상품목록페이지 및 추가버튼.PNG)
 
 <center>식품 상세 정보 페이지</center>
 
 
 
-![5. 식품 상세 정보 페이지](./images/5. 식품 상세 정보 페이지.PNG)
+![식품 상세 정보 페이지](./images/식품 상세 정보 페이지.PNG)
 
 <center>내 식단 페이지</center>
 
 
 
-![5.5 내 식단 페이지](./images/5.5 내 식단 페이지.PNG)
+![내 식단 페이지](./images/내 식단 페이지.PNG)
 
 <center>공지사항 페이지</center>
 
-![6. 공지사항 페이지](./images/6. 공지사항 페이지.PNG)
+![공지사항 페이지](./images/공지사항 페이지.PNG)
 
 <center>Q&A페이지</center>
 
 
 
-![7. Q&A페이지](./images/7. Q&A페이지.PNG)
+![Q&A페이지](./images/Q&A페이지.PNG)
 
 <center>검색버튼을 통한 검색창 및 검색 순위</center>
 
-![8.검색버튼을 통한 검색창 및 검색 순위](./images/8.검색버튼을 통한 검색창 및 검색 순위.PNG)
+![검색버튼을 통한 검색창 및 검색 순위](./images/검색버튼을 통한 검색창 및 검색 순위.PNG)
 
 
 ## Video
